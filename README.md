@@ -12,15 +12,13 @@ The things I host in my repos and blog are things that I have learnt over time, 
 
 - 🔭 I’m currently working on writing an intro to Linux and Mac for tech folks.
 - ⚡ Fun fact: I grow my own tomatoes and peppers to make home made salsa for my family and friends.
-- 🎧 Listening to all my favorite jams on [Spotify]()
+- 🎧 Music: Heavy Metal, Reggae, Country, Blues
 - 📚 Books: 1984, Animal Farm, Lord of the Rings
+- 🎮 Playing: Halo Infinite, Halo: The Master Chief Collection, Minecraft
+- 📫 How to reach me: [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white&link=mailto:silentglasses@proton.me)](mailto:silentglasses@proton.me)
 
 [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
-
-## 📫 How to reach me
-
-* [email](mailto:silentglasses@proton.me)
 
 ## 🛠 Technologies, tools and stuff:
 
