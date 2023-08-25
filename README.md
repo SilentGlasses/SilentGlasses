@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-Welcome to my home on GitHub, I am a techy person with background in Architecture and Construction, as well as General IT including System Adminsistration, Observability and IT Risk. 
+Welcome to my home on GitHub, I am a techy person with background in Architecture and Construction, as well as General IT including System Administration, Observability and IT Risk. 
 
 I like to learn about everything I can get my hands on. A jack of all, master of none kinda guy.
 
