@@ -17,8 +17,12 @@ The things I host in my repos and blog are things that I have learnt over time, 
 - 🎮 **Playing**: Halo Infinite, Halo: The Master Chief Collection, Minecraft
 - 📫 **How to reach me**: [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white&link=mailto:silentglasses@proton.me)](mailto:silentglasses@proton.me)
 
-[![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+### PagerDuty Certified
+
+<img src="https://github.com/SilentGlasses/SilentGlasses/assets/22822565/a3e5d34b-00d5-490d-a20b-4cf209354d45" alt="PagerDuty Foundational Practitioner" width="100" height="100"/>
+<img src="https://github.com/SilentGlasses/SilentGlasses/assets/22822565/934ccb28-c814-430f-9e09-a1218d957a04" alt="PagerDuty Incident Responder" width="100" height="100"/>
+
+
 
 ## 🛠 Technologies, tools and stuff:
 
