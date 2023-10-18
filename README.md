@@ -86,58 +86,58 @@ The things I host in my repos and blog are things that I have learnt over time, 
 ### 🧠 Other Platforms I have experience with
 
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.bigpanda.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/bigpandaio/bigpandaio-icon.svg" alt="bigpanda" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://go.bitwarden.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg" alt="bitwarden" width="40" height="40"/>
   </a>
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadoghq" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://flipboard.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flipboard/flipboard-icon.svg" alt="flipboard" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.godaddy.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/godaddy/godaddy-icon.svg" alt="godaddy" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://graphiteapp.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.lucidchart.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg" alt="lucidchart" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mediawiki/mediawiki-icon.svg" alt="mediawiki" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="nagios" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://newrelic.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="newrelic" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.pagerduty.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" alt="pagerduty" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://proton.me/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" alt="protonmail" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.roku.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/roku/roku-icon.svg" alt="roku" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.videolan.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/videolan_vlc/videolan_vlc-icon.svg" alt="vlc" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
