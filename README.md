@@ -11,7 +11,7 @@ The things I host in my repos and blog are things that I have learnt over time, 
 ## General Info
 
 - 🔭 I’m currently working on writing an intro to Linux and Mac for tech folks.
-- ⚡ **Fun fac**t: I grow my own tomatoes and peppers to make home made salsa for my family and friends.
+- ⚡ **Fun fac**t: I grow my own tomatoes and peppers to make home made salsa for my family and friends. See my blog for recipes.
 - 🎧 **Music**: Heavy Metal, Reggae, Country, Blues
 - 📚 **Books**: 1984, Animal Farm, Lord of the Rings, Lod of the Flies, War of the Worlds, To Kill a Mockingbird, The Catcher in the Rye, The Hobbit, Moby Dick, The Adventures of Huckleberry Finn, Gulliver's Travels, The Color Purple, Brave New World, Charlotte's Web, Treasure Island, The Wind in the Willows, One Flew Over the Cuckoo's Nest, 
 - 🎮 **Playing**: Halo Infinite, Halo: The Master Chief Collection, Minecraft
