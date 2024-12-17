@@ -6,7 +6,9 @@ Welcome to my home on GitHub, I am a techy person with background in Architectur
 
 I like to learn about everything I can get my hands on. A jack of all, master of none kinda guy.
 
-The things I host in my repos and blog are things that I have learnt over time, they may not be the right way or the best way to do things but they are how I got them to work and they solved problems I needed them to. If you have a better way to do things, feel free to fork and submit a pull request.
+The things I host in my repos and blog are things that I have learnt over time, they may not be the right way or the best way to do things but they are how I got them to work and they solved problems I needed them to. If you have a better way to do things, feel free to fork and submit a pull request or drop me an issue with feedback on the corresponding repo.
+
+Thanks for visiting.
 
 ## General Info
 
