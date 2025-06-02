@@ -2,11 +2,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-Welcome to my home on GitHub, I am a techy person with background in Architecture and Construction, as well as General IT including System Administration, Observability and IT Risk. 
+Welcome to my corner of GitHub!
 
-I like to learn about everything I can get my hands on. A jack of all, master of none kinda guy.
+I’m a tech enthusiast with a background in Architecture and Construction, now deep into the world of IT — from System Administration and Observability to IT Risk. I like to get my hands dirty learning just about anything, whether it’s building, breaking, or fixing.
 
-The things I host in my repos and blog are things that I have learnt over time, they may not be the right way or the best way to do things but they are how I got them to work and they solved problems I needed them to. If you have a better way to do things, feel free to fork and submit a pull request or drop me an issue with feedback on the corresponding repo.
+I’m a jack of all trades, master of none — but I’ve picked up a lot along the way.
+
+Most of what you’ll find in my repos and blog are things I’ve learned through trial, error, and persistence. They may not be perfect, but they’ve solved real problems for me. If you spot something that can be improved, feel free to fork it, open a pull request, or drop an issue with feedback — I’m always open to learning a better way.
 
 Thanks for visiting.
 
